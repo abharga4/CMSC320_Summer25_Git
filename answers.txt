@@ -7,3 +7,6 @@ Q2: What is the difference between Git and GitHub?
 
 Answer: Git is a distributed version control system used to track changes in code locally while GitHub is a cloud-based platform that hosts Git's repositories and allows for collaboration, issue tracking, and pull requests. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches by creating a new “merge commit” that includes changes from both branches. Rebasing rewrites the commit history by redoing your feature branch commits on top of another branch which creates a cleaner history without all of the merge commits.
